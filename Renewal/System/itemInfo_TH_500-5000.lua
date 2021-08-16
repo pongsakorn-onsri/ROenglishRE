@@ -64714,14 +64714,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence STR 1",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"STR +1",
 			"ATK +3",
 			"INT -1",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64733,14 +64733,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence STR 2",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"STR +2",
 			"ATK +6",
 			"INT -2",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64752,14 +64752,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence STR 3",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"STR +4",
 			"ATK +12",
 			"INT -4",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64771,14 +64771,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence INT 1",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"INT +1",
 			"MATK +3",
 			"STR -1",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64790,14 +64790,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence INT 2",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"INT +2",
 			"MATK +6",
 			"STR -2",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64809,14 +64809,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence INT 3",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"INT +4",
 			"MATK +12",
 			"STR -4",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64828,14 +64828,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence AGI 1",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"AGI +1",
 			"FLEE +2",
 			"VIT -1",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64847,14 +64847,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence AGI 2",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"AGI +2",
 			"FLEE +4",
 			"VIT -2",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64866,14 +64866,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence AGI 3",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"AGI +4",
 			"FLEE +8",
 			"VIT -4",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64885,15 +64885,15 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence VIT 1",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"VIT +1",
 			"DEF +3",
 			"MDEF +2",
 			"AGI -1",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64905,15 +64905,15 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence VIT 2",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"VIT +2",
 			"DEF +6",
 			"MDEF +4",
 			"AGI -2",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64925,15 +64925,15 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence VIT 3",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"VIT +4",
 			"DEF +12",
 			"MDEF +8",
 			"AGI -4",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64945,14 +64945,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence DEX 1",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"DEX +1",
 			"HIT +2",
 			"LUK -1",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64964,14 +64964,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence DEX 2",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"DEX +2",
 			"HIT +4",
 			"LUK -2",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -64983,14 +64983,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence DEX 3",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"DEX +4",
 			"HIT +8",
 			"LUK -4",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -65002,14 +65002,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence LUK 1",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"LUK +1",
 			"Critical +1",
 			"DEX -1",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -65021,14 +65021,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence LUK 2",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"LUK +2",
 			"Critical +2",
 			"DEX -2",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -65040,14 +65040,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Demon's Essence LUK 3",
 		identifiedDescriptionName = {
-			"An essence of Satan Morocc. Contains part of demon's power.",
+			"แก่นของ Satan Morocc บรรจุพลังอำนาจส่วนหนึ่งของจอมมาร",
 			"_______________________",
 			"LUK +4",
 			"Critical +4",
 			"DEX -4",
 			"_______________________",
-			"^FF0000Note: This is a special enchant items and therefore not within the card's slot.",
-			"^0000CCCompound on:^000000 All slots",
+			"^FF0000Note: ไอเทมเสริมพลังแบบพิเศษ และอยู่ในตำแหน่งการ์ด",
+			"^0000CCผสานได้กับ:^000000 ทุกช่อง",
 			"^0000CCน้ำหนัก:^000000 1"
 		},
 		slotCount = 0,
@@ -65103,7 +65103,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Increases Recovery",
 		identifiedDescriptionName = {
-			"Increases recovery amount gained from ^0033CCRestorative items^000000 by 2%."
+			"เพิ่มประสิทธิภาพจาก ^0033CCไอเทมประเภทฟื้นฟู^000000 ขึ้น 2%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65114,7 +65114,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Healing 10",
 		identifiedDescriptionName = {
-			"Restores 10 HP every 10 seconds."
+			"ฟื้นฟู HP 10 หน่วยทุก 10 วินาที"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65125,7 +65125,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "SP Recovery 1",
 		identifiedDescriptionName = {
-			"Restores SP by 1 when defeating monster."
+			"ฟื้นฟู SP ขึ้น 1 หน่วยเมื่อสังหารมอนสเตอร์"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65136,7 +65136,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Neutral Resistance Lv1",
 		identifiedDescriptionName = {
-			"Decreases damage taken from ^777777Neutral^000000 elemental attacks by 1%."
+			"ลดความเสียหายจากการโจมตีธาตุ ^777777Neutral^000000 ลง 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65147,7 +65147,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Neutral Resistance Lv2",
 		identifiedDescriptionName = {
-			"Decreases damage taken from ^777777Neutral^000000 elemental attacks by 2%."
+			"ลดความเสียหายจากการโจมตีธาตุ ^777777Neutral^000000 ลง 2%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65158,7 +65158,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Neutral Resistance Lv3",
 		identifiedDescriptionName = {
-			"Decreases damage taken from ^777777Neutral^000000 elemental attacks by 3%."
+			"ลดความเสียหายจากการโจมตีธาตุ ^777777Neutral^000000 ลง 3%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65169,7 +65169,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Large Attack 1",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of ^FF0000Large^000000 size by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อศัตรูขนาด ^FF0000Large^000000 ขึ้น 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65180,7 +65180,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Medium Attack 1",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of ^FF0000Medium^000000 size by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อศัตรูขนาด ^FF0000Medium^000000 ขึ้น 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65191,7 +65191,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Small Attack 1",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of ^FF0000Small^000000 size by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อศัตรูขนาด ^FF0000Small^000000 ขึ้น 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65268,7 +65268,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Saving Lv1",
 		identifiedDescriptionName = {
-			"Decreases SP Consumption of all skills by 2%"
+			"ลดการใช้ SP ของทุกสกิลลง 2%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65279,7 +65279,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Saving Lv2",
 		identifiedDescriptionName = {
-			"Decreases SP Consumption of all skills by 4%"
+			"ลดการใช้ SP ของทุกสกิลลง 4%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65290,7 +65290,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Saving Lv3",
 		identifiedDescriptionName = {
-			"Decreases SP Consumption of all skills by 6%"
+			"ลดการใช้ SP ของทุกสกิลลง 6%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65301,7 +65301,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "AfterSkillDelay Lv1",
 		identifiedDescriptionName = {
-			"Decreases After Skill Delay of all skills by 2%."
+			"ลด After Skill Delay ของทุกสกิลลง 2%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65312,7 +65312,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "AfterSkillDelay Lv2",
 		identifiedDescriptionName = {
-			"Decreases After Skill Delay of all skills by 4%."
+			"ลด After Skill Delay ของทุกสกิลลง 4%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65323,7 +65323,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "AfterSkillDelay Lv3",
 		identifiedDescriptionName = {
-			"Decreases After Skill Delay of all skills by 6%."
+			"ลด After Skill Delay ของทุกสกิลลง 6%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65334,9 +65334,9 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Darkness Drop",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of ^777777Shadow^000000 elemental by 2%.",
-			"Increases ^777777Shadow^000000 elemental magic damage by 2%.",
-			"Decreases damage taken from ^777777Shadow^000000 elemental attacks by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อมอนเตอร์ธาตุ ^777777Shadow^000000 ขึ้น 2%",
+			"เพิ่มพลังโจมตีเวทย์มนต์ธาตุ ^777777Shadow^000000 ขึ้น 2%",
+			"ลดความเสียหายจากธาตุ ^777777Shadow^000000 ลง 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65347,9 +65347,9 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Fire Drop",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of ^FF0000Fire^000000 elemental by 2%.",
-			"Increases ^FF0000Fire^000000 elemental magic damage by 2%.",
-			"Decreases damage taken from ^FF0000Fire^000000 elemental attacks by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อมอนเตอร์ธาตุ ^FF0000Fire^000000 ขึ้น 2%",
+			"เพิ่มพลังโจมตีเวทย์มนต์ธาตุ ^FF0000Fire^000000 ขึ้น 2%",
+			"ลดความเสียหายจากธาตุ ^FF0000Fire^000000 ลง 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65360,9 +65360,9 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Water Drop",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of ^0000BBWater^000000 elemental by 2%.",
-			"Increases ^0000BBWater^000000 elemental magic damage by 2%.",
-			"Decreases damage taken from ^0000BBWater^000000 elemental attacks by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อมอนเตอร์ธาตุ ^0000BBWater^000000 ขึ้น 2%",
+			"เพิ่มพลังโจมตีเวทย์มนต์ธาตุ ^0000BBWater^000000 ขึ้น 2%",
+			"ลดความเสียหายจากธาตุ ^0000BBWater^000000 ลง 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65373,9 +65373,9 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Tree Drop",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of ^CC5500Earth^000000 elemental by 2%.",
-			"Increases ^CC5500Earth^000000 elemental magic damage by 2%.",
-			"Decreases damage taken from ^CC5500Earth^000000 elemental attacks by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อมอนเตอร์ธาตุ ^CC5500Earth^000000 ขึ้น 2%",
+			"เพิ่มพลังโจมตีเวทย์มนต์ธาตุ ^CC5500Earth^000000 ขึ้น 2%",
+			"ลดความเสียหายจากธาตุ ^CC5500Earth^000000 ลง 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65386,9 +65386,9 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Light Drop",
 		identifiedDescriptionName = {
-			"Increases Physical Damage against enemies of Holy elemental monsters by 2%.",
-			"Increases ^777777Holy^000000 elemental magic damage by 2%.",
-			"Decreases damage taken from ^777777Holy^000000 elemental attacks by 1%."
+			"เพิ่มพลังโจมตีกายภาพต่อมอนเตอร์ธาตุ ^777777Holy^000000 ขึ้น 2%",
+			"เพิ่มพลังโจมตีเวทย์มนต์ธาตุ ^777777Holy^000000 ขึ้น 2%",
+			"ลดความเสียหายจากธาตุ ^777777Holy^000000 ลง 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65399,8 +65399,8 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Recovery Drop",
 		identifiedDescriptionName = {
-			"Increases ^009900Healing^000000 skills effectiveness by 2%.",
-			"Increases recovery amount gained from ^009900Healing^000000 skills and ^0033CCRestorative items^000000 by 2%."
+			"เพิ่มประสิทธิภาพการใช้ทักษะ ^009900Healing^000000 ขึ้น 2%",
+			"เพิ่มผลลัพธ์จากการใช้ทักษะ ^009900Healing^000000 และ ^0033CCไอเทมประเภทฟื้นฟู^000000 ขึ้น 2%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65422,14 +65422,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Gemini",
 		identifiedDescriptionName = {
-			"Decreases After Skill Delay of all skills by 1%.",
+			"ลด After Skill Delay ทุกสกิลลง 1%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
-			"Decreases After Skill Delay of all skills by additional 1%.",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
+			"ลด After Skill Delay ทุกสกิลลงอีก 1%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
-			"Decreases After Skill Delay of all skills by additional 1%."
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
+			"ลด After Skill Delay ทุกสกิลลงอีก 1%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65440,14 +65440,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Sagittarius",
 		identifiedDescriptionName = {
-			"Increases Ranged Physical Damage by 1%",
+			"เพิ่มพลังโจมตีกายภาพระยะไกลขึ้น 1%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
-			"Increases Ranged Physical Damage by additional 2%.",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
+			"เพิ่มพลังโจมตีกายภาพระยะไกลขึ้นอีก 2%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
-			"Increases Ranged Physical Damage by additional 1%."
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
+			"เพิ่มพลังโจมตีกายภาพระยะไกลขึ้นอีก 1%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65458,14 +65458,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Aquarius",
 		identifiedDescriptionName = {
-			"Decreases SP Consumption of all skills by 2%",
+			"ลดการใช้ SP ของทุกสกิลลง 2%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
-			"Decreases SP Consumption of all skills by additional 2%.",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
+			"ลดการใช้ SP ของทุกสกิลลงอีก 2%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
-			"Decreases SP Consumption of all skills by additional 1%."
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
+			"ลดการใช้ SP ของทุกสกิลลงอีก 1%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65478,11 +65478,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"MATK +10",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
 			"MATK +10",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
 			"MATK +10"
 		},
 		slotCount = 0,
@@ -65496,11 +65496,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"ATK +3",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
 			"ATK +2",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
 			"ATK +5"
 		},
 		slotCount = 0,
@@ -65515,12 +65515,12 @@ tbl = {
 			"ATK +4",
 			"HIT +1",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
 			"ATK +4",
 			"HIT +3",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
 			"ATK +2",
 			"HIT +1"
 		},
@@ -65535,11 +65535,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"MATK +3%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
 			"MATK +1%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
 			"MATK +1%"
 		},
 		slotCount = 0,
@@ -65551,14 +65551,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Pisces",
 		identifiedDescriptionName = {
-			"Decreases Variable Casting Time of all skills by 2%",
+			"ลด Variable Casting Time ทุกสกิลลง 2%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
-			"Decreases Variable Casting Time of all skills by additional 1%.",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
+			"ลด Variable Casting Time ทุกสกิลลงอีก 1%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
-			"Decreases Variable Casting Time of all skills by additional 1%."
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
+			"ลด Variable Casting Time ทุกสกิลลงอีก 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65571,11 +65571,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"ATK +1%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
 			"ATK +1%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
 			"ATK +1%"
 		},
 		slotCount = 0,
@@ -65587,14 +65587,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Leo",
 		identifiedDescriptionName = {
-			"Decreases After Attack Delay by 3%.",
+			"ลด After Attack Delay ลง 3%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
-			"Decreases After Attack Delay by additional 1%.",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
+			"ลด After Attack Delay ลงอีก 1%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
-			"Decreases After Attack Delay by additional 1%."
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
+			"ลด After Attack Delay ลงอีก 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65605,14 +65605,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Virgo",
 		identifiedDescriptionName = {
-			"Increases ^009900Healing^000000 skills effectiveness by 1%",
+			"เพิ่มประสิทธิภาพของทักษะ ^009900Healing^000000 ขึ้น 1%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
-			"Increases ^009900Healing^000000 skills effectiveness by additional 2%.",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
+			"เพิ่มประสิทธิภาพของทักษะ ^009900Healing^000000 ขึ้นอีก 2%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
-			"Increases ^009900Healing^000000 skills effectiveness by additional 2%."
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
+			"เพิ่มประสิทธิภาพของทักษะ ^009900Healing^000000 ขึ้นอีก 2%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65623,14 +65623,14 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Libra",
 		identifiedDescriptionName = {
-			"Increases recovery amount gained from ^009900Healing^000000 skills and ^0033CCRestorative items^000000 by 1%.",
+			"เพิ่มผลลัพธ์จากการใช้ทักษะ ^009900Healing^000000 และ ^0033CCไอเทมประเภทฟื้นฟู^000000 ขึ้น 1%",
 			"_______________________",
-			"When equipped with ^990099Nidhogur and Loki Hat^000000:",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+7 or higher^000000:",
-			"Increases recovery amount gained from ^009900Healing^000000 skills and ^0033CCRestorative items^000000 by 1%.",
+			"เมื่อสวมใส่กับ ^990099Nidhogur and Loki Hat^000000:",
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+7 หรือสูงกว่า^000000:",
+			"เพิ่มผลลัพธ์จากการใช้ทักษะ ^009900Healing^000000 และ ^0033CCไอเทมประเภทฟื้นฟู^000000 ขึ้น 1%",
 			" ",
-			"If ^0000FFRefine Level^000000 of ^990099Nidhogur and Loki Hat^000000 is ^0000FF+9 or higher^000000:",
-			"Increases recovery amount gained from ^009900Healing^000000 skills and ^0033CCRestorative items^000000 by additional 1%."
+			"หาก ^0000FFระดับตีบวก^000000 ของ ^990099Nidhogur and Loki Hat^000000 คือ ^0000FF+9 หรือสูงกว่า^000000:",
+			"เพิ่มผลลัพธ์จากการใช้ทักษะ ^009900Healing^000000 และ ^0033CCไอเทมประเภทฟื้นฟู^000000 ขึ้นอีก 1%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65641,7 +65641,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Fire Property Reactor",
 		identifiedDescriptionName = {
-			"Enchants compounded Armor with ^FF0000Fire^000000 elemental."
+			"ผสานกับชุดเกราะจะกลายเป็นธาตุ ^FF0000Fire^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65652,7 +65652,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Water Property Reactor",
 		identifiedDescriptionName = {
-			"Enchants compounded Armor with ^0000BBWater^000000 elemental."
+			"ผสานกับชุดเกราะจะกลายเป็นธาตุ ^0000BBWater^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65663,7 +65663,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Earth Property Reactor",
 		identifiedDescriptionName = {
-			"Enchants compounded Armor with ^CC5500Earth^000000 elemental."
+			"ผสานกับชุดเกราะจะกลายเป็นธาตุ ^CC5500Earth^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65674,7 +65674,7 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Wind Property Reactor",
 		identifiedDescriptionName = {
-			"Enchants compounded Armor with ^33CC00Wind^000000 elemental."
+			"ผสานกับชุดเกราะจะกลายเป็นธาตุ ^33CC00Wind^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65685,8 +65685,8 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Fire Resistance Reactor",
 		identifiedDescriptionName = {
-			"Decreases damage taken from ^FF0000Fire^000000 elemental attacks by 25%.",
-			"Increases damage taken from ^0000BBWater^000000 elemental attacks by 25%."
+			"ลดความเสียหายจากธาตุ ^FF0000Fire^000000 ลง 25%",
+			"เพิ่มความเสียหายที่ได้รับจากธาตุ ^0000BBWater^000000 ขึ้น 25%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65697,8 +65697,8 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Water Resistance Reactor",
 		identifiedDescriptionName = {
-			"Decreases damage taken from ^0000BBWater^000000 elemental attacks by 25%.",
-			"Increases damage taken from ^33CC00Wind^000000 elemental attacks by 25%."
+			"ลดความเสียหายจากธาตุ ^0000BBWater^000000  ลง 25%",
+			"เพิ่มความเสียหายที่ได้รับจากธาตุ ^33CC00Wind^000000 ขึ้น 25%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65709,8 +65709,8 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Earth Resistance Reactor",
 		identifiedDescriptionName = {
-			"Decreases damage taken from ^CC5500Earth^000000 elemental attacks by 25%.",
-			"Increases damage taken from monsters of ^FF0000Fire^000000 elemental attacks by 25%."
+			"ลดความเสียหายจากธาตุ ^CC5500Earth^000000 ลง 25%",
+			"เพิ่มความเสียหายที่ได้รับจากธาตุ ^FF0000Fire^000000 ขึ้น 25%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65721,8 +65721,8 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Wind Resistance Reactor",
 		identifiedDescriptionName = {
-			"Decreases damage taken from ^33CC00Wind^000000 elemental attacks by 25%.",
-			"Increases damage taken from ^CC5500Earth^000000 elemental attacks by 25%."
+			"ลดความเสียหายจากธาตุ ^33CC00Wind^000000 ลง 25%",
+			"เพิ่มความเสียหายที่ได้รับจากธาตุ ^CC5500Earth^000000 ขึ้น 25%",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65761,10 +65761,10 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Recovery Reactor 201",
 		identifiedDescriptionName = {
-			"Increases HP Recovery Rate by 50%.",
+			"เพิ่ม HP Recovery Rate ขึ้น 50%",
 			"_______________________",
 			"^0000FFระดับตีบวก +7^000000:",
-			"Increases HP Recovery Rate by 50%."
+			"เพิ่ม HP Recovery Rate ขึ้น 50%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -65775,10 +65775,10 @@ tbl = {
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Recovery Reactor 202",
 		identifiedDescriptionName = {
-			"Increases SP Recovery Rate by 50%.",
+			"เพิ่ม SP Recovery Rate ขึ้น 50%",
 			"_______________________",
 			"^0000FFระดับตีบวก +7^000000:",
-			"Increases SP Recovery Rate by 50%."
+			"เพิ่ม SP Recovery Rate ขึ้น 50%"
 		},
 		slotCount = 0,
 		ClassNum = 0,
