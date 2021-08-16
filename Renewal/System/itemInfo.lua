@@ -14,8 +14,10 @@ function get_item_unidentifiedResourceName(id, infos)
 
 	for key,ItemInfo in pairs(infos) do
 		require(ItemInfo)
-		if nil ~= tbl[id].unidentifiedResourceName then
-			return true, tbl[id].unidentifiedResourceName
+		if nil ~= tbl[id] then
+			if nil ~= tbl[id].unidentifiedResourceName then
+				return true, tbl[id].unidentifiedResourceName
+			end
 		end
 	end
 
@@ -26,8 +28,10 @@ function get_item_identifiedResourceName(id, infos)
 
 	for key,ItemInfo in pairs(infos) do
 		require(ItemInfo)
-		if nil ~= tbl[id].identifiedResourceName then
-			return true, tbl[id].identifiedResourceName
+		if nil ~= tbl[id] then
+			if nil ~= tbl[id].identifiedResourceName then
+				return true, tbl[id].identifiedResourceName
+			end
 		end
 	end
 
@@ -35,7 +39,7 @@ function get_item_identifiedResourceName(id, infos)
 end
 
 function main()
-	IInfo = {"System.itemInfo_th", "System.itemInfo_en","System.itemInfo_kr"}
+	IInfo = {"System.itemInfo_TH_500-5000", "System.itemInfo_th", "System.itemInfo_en","System.itemInfo_kr"}
 	-- Example!
 	-- IInfo = {"System.import_iteminfo","System.kro_iteminfo5","System.kro_iteminfo4","System.kro_iteminfo3","System.kro_iteminfo2","System.kro_iteminfo1","System.kro_iteminfo"}
 	ItemList = {}
