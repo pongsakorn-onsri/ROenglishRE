@@ -39,7 +39,7 @@ function get_item_identifiedResourceName(id, infos)
 end
 
 function main()
-	IInfo = {"System.itemInfo_TH_500-5000", "System.itemInfo_th", "System.itemInfo_en","System.itemInfo_kr"}
+	IInfo = {"System.itemInfo_TH_500-5000", "System.itemInfo_th", "System.itemInfo_en", "System.itemInfo_TH_400000", "System.itemInfo_kr"}
 	-- Example!
 	-- IInfo = {"System.import_iteminfo","System.kro_iteminfo5","System.kro_iteminfo4","System.kro_iteminfo3","System.kro_iteminfo2","System.kro_iteminfo1","System.kro_iteminfo"}
 	ItemList = {}
